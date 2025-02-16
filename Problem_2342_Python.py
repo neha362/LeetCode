@@ -1,4 +1,4 @@
-#Max Sum of a Pair With Equal Sum of Digits, solved Jan 13 2025
+#Max Sum of a Pair With Equal Sum of Digits, solved Feb 12 2025
 class Solution:
     def maximumSum(self, nums: List[int]) -> int:
         digitMap = [0] * 82
